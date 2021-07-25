@@ -1,0 +1,36 @@
+---
+author: Jared
+categories:
+- History
+date: "2015-11-20T15:29:00Z"
+guid: https://eberlemain.nfshost.com/?p=315
+id: 315
+tags:
+- Archives
+- Rodeo
+title: Finding Nuggets in the Rodeo Dirt
+url: /finding-nuggets-in-the-rodeo-dirt/
+---
+<!-- wp:paragraph -->
+<p>I really enjoyed Clinton Girkin's <a href="https://cattleanniehistory.wordpress.com/2015/11/13/historical-research-digging-for-a-goldmine-of-information/">blog post</a> on his experiences navigating through various archives, both digital and analog, looking for materials related to our larger women in rodeo archive. While I admit I've been behind most of the semester, and have not gotten nearly as much done as I had planned (best laid plans…) I have explored a few avenues looking for sources for both this site and the women in rodeo project. Both have been tedious and have provided far fewer leads than one would hope, but if a historian's job was easy, everyone would do it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For this site, I've run in to many of the same problems we see with finding information on women in rodeos between 1929 and 1949, namely there's no real centralized collection on Indian participation in rodeo and the Indian National Finals Rodeo didn't begin until 1975, well later than I wanted to go (again, if it was easy the book would've been written already). As a result for both projects you're left searching for threads, most importantly individual names that can lead down some unexpected avenues. One avenue I hoped would prove fruitful was searching obituaries to see if anyone mentioned participation in rodeo that would give me a starting point for future research. For this I turned to OSU's digital access to <em>News From Indian Country</em>, a national Indian newspaper that syndicates obituaries from smaller tribal papers I'd never have reasonable access to. Each issue includes a few pages of short obituaries from tribes around the country and having looked at a few years of hard copies of <em>NFIC</em>, I thought the ease of a digital archive would make locating obituaries mentioning rodeo a pretty easy task. There were two obvious limitations, first our digital access was incomplete, and secondly if I did find anything worthwhile would I be able to find anything beyond the small thread.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The end result was that I found a bunch of obituaries that mentioned rodeo, but a large amount of them mentioned rodeo because the person enjoyed watching them but never participated. I did find a few items would looking into, including one women who was the first to take part in an Indian horse festival in Washington state. However, until I can find out more information, and possibly reach out to the families, I didn't want to disclose too much on those avenues. I also realized as I was looking through obituaries that date back to 1985, that the average life expectancy of many American Indians is an unfortunate and sad hurdle. Many of the obituaries that mentioned participation in rodeo fell well later than the 1929 to 1949 time frame I had set for the site when I began.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yet, the searches in <em>NFIC</em> weren't a complete waste of time as I stumbled across the <a href="https://blog.jaredeberle.org/peter-lafarge-the-singing-protest-cowboy/">information on Peter LaFarge</a>, and a few other interesting articles that could contribute to the site down the road. I also get to spend time reading the life stories of a bunch ordinary people who seemed really amazing, and the little nuggets of otherwise mundane life stories in some of the obituaries were a nice grounding about remembering what's important, cherishing the little things and nothing in life is a chore if you have the right mindset (one woman's noted how much she loved cleaning the kitchen and doing the laundry, two things I hate.) All of this was particularly appropriate when I found out later that afternoon about the tragic events unfolding in Paris.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I also mostly struck out in searching through the <em>Daily Oklahoman</em> archives which, as Clinton notes, is a pain to use when searching for broad topics.[ref]So much scrolling because as far as I could tell there wasn't a decent way to view an individual article and keep your place in the search. So every time I viewed an article I had to start from the top and find where I was in the list when I was do.[/ref] I did, however, come across an article from the life section of the paper from October 1946 which was helpful and interesting on a few levels. For one, it provides a list of some of the town rodeos in Oklahoma and noting how long they had been going on for. These local amateur and professional rodeos could be an important source of names to explore, but the question then becomes who has these records if they exist at all? Undoubtedly if they're still around they're buried in local historical societies, far from the reach of the digital revolution and possibly well outside the memory of anyone working in the societies. Yet, as with <em>NFIC</em>, the article provided an interesting tangent, albeit one outside of the scope of this site. Namely, because the article came right after the end of World War II, it provides an look at how an event central to many towns continued or didn't continue during the war years. Some of the towns, such as Sulphur, Pryor, and Hennessey suspended or cut back their rodeos during the war went on while others like Pawnee continued theirs as part of larger 4th of July celebrations.[ref]The period around the Fourth of July is traditionally the biggest time for rodeos and is referred to as <a href="http://www.si.com/longform/rodeo/">Cowboy Christmas</a>" for the amount of money that can be earned.[/ref] Furthermore some of the towns that suspended their rodeos found that they had difficulty re-starting them when the war finally ended.[ref]"'Ride-'em, Cowboy'," <em>The Daily Oklahoman</em>, October, 13, 1946.[/ref] We regularly hear mentions of Joe DiMaggio or Ted Williams suspending their baseball careers to serve in the military, but the war truly did touch all facets of life, even the small town rodeo that was the marquee event of the entire year for many Oklahomans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Going forward I've begun exploring <a href="https://www.oupress.com/books/9782365/riding-buffaloes-and-broncos">secondary sources</a> that deal with Indians and rodeo, roughly in the period I really want to look at, but many centered outside of Oklahoma. I'm not only interested to see what others found, but where they found stuff. Obviously in order to successfully complete any historical project you need to get dirty and dig into actual dusty archives, which when I have the time to travel around the state and poke my head into semi-forgotten small town historical societies I'd love to do, but for now I've got to be content with the small strands of information that I can pull from the sources I have readily accessible to me.</p>
+<!-- /wp:paragraph -->
