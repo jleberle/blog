@@ -15,7 +15,7 @@ Dennis Banks passed away on October 29, 2017. On November 1, 2017 I filed a Free
 
 Today, 932 days later, the FBI responded to the FOIA request with 210 pages of information. I can't say there's anything drastically new in the material, but I've uploaded them here for future reference.
 
-- [File 1 - Custer Protest - Deals with the FBI investigation into the protest at the Custer County Court on February 6th, 1973.](/files/banks-custer-.pdf)
+- [File 1 - Custer Protest - Deals with the FBI investigation into the protest at the Custer County Court on February 6th, 1973.](/files/banks-custer.pdf)
 
 - [File 2 - Deals with a continuing FBI extremist investigation into Banks in 1976 and 1977 while he was residing in California and teaching at DQ University.](/files/banks-investigation-1976-1977.pdf)
 

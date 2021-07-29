@@ -3,7 +3,6 @@ author: Jared
 categories:
 - Watching
 date: "2021-05-29T21:34:00Z"
-image: /images/2021/07/baywatch.jpg
 tags:
 - Baywatch
 title: 'Blogging Baywatch: Season 1'
