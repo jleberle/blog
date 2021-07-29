@@ -3,8 +3,6 @@ author: Jared
 categories:
 - History
 date: "2015-09-15T09:36:00Z"
-guid: https://eberlemain.nfshost.com/?p=173
-id: 173
 tags:
 - Indigenous
 title: Where&#8217;d the Death Come From?

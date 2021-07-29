@@ -1,6 +1,7 @@
 img[src$='#floatleft']
 {
 	float:left;
+	margin-right: 25px;
         //etc. etc/
 }
 
@@ -13,5 +14,6 @@ img[src$='#floatcenter']
 img[src$='#floatright']
 {
 	float:right;
+	margin-left: 25px;
        //etc. etc.
 }
