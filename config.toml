@@ -1150,7 +1150,7 @@ uglyURLs = false
 
     enablePostShare = true
 
-    displayPostShare = true
+    displayPostShare = false
     # Note: *global settings*
     #       `share` in post’s Front Matter
     #       has a higher priority than here
@@ -1160,14 +1160,13 @@ uglyURLs = false
     shareOnTwitter = true
     shareOnFacebook = true
     shareOnLinkedIn = true
-    shareOnTelegram = true
-    shareOnWeibo = true
-    shareOnDouban = true
-    shareOnQQ = true
-    shareOnQzone = true
+    shareOnTelegram = false
+    shareOnWeibo = false
+    shareOnDouban = false
+    shareOnQQ = false
+    shareOnQzone = false
 
-    shareViaQRCode = true
-
+    shareViaQRCode = false
 
     ######################################
     # Related Posts
@@ -1281,7 +1280,7 @@ uglyURLs = false
     #       https://busuanzi.ibruce.info/
 
     # Socials
-    enableSocials = true
+    enableSocials = false
     # Note: see data/Socials.toml
 
 
