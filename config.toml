@@ -100,7 +100,7 @@ uglyURLs = false
     # Motto or introduction
     motto = "Don't be a jerk"
     # Avatar
-    avatar = "/icons/apple-touch-icon.png"
+    avatar = "/icons/avatar.jpg"
     # Personal website, default: baseURL
     website = "https://jaredeberle.org/"
     # Twitter
