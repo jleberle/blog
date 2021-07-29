@@ -21,7 +21,7 @@ Finally I have some old posts on The Hartford Whalers and Howard Baldwin's attem
 
 The blog is written by myself, Jared Eberle. I'm an adjunct instructor at Oklahoma State University, more information on that can be found on [my CV](https://jaredeberle.org). You can find my various social profiles under the link icon at the top of the page.
 
-Over the years the blog has evolved from a Blogger site to being hosted on Tumblr and then a self-hosted website run with Wordpress, Jekyll, and Hugo, before returning to Wordpress. Previous versions were hosted on [everbecoming.org](https://web.archive.org/web/20090615000000*/everbecoming.org)[ref]A reference to [Frederick Jackson Turner's statement](https://teachingamericanhistory.org/library/document/the-significance-of-history/) that, "History, both objective and subjective, is ever becoming — never completed."[/ref] and [northtonowhere.com](https://web.archive.org/web/20090615000000*/northtonowhere.com)[ref]A play on the 1960 film [*North to Alaska*](https://en.wikipedia.org/wiki/North_to_Alaska) not the [1989 film](https://www.imdb.com/title/tt10691426/)[/ref] Over the years I've let those domains lapse and have culled many of the posts from the older sites because they weren't worth migrating to the new sites and programs.
+Over the years the blog has evolved from a Blogger site to being hosted on Tumblr and then a self-hosted website run with Wordpress, Jekyll, and Hugo, before returning to Wordpress. Previous versions were hosted on [everbecoming.org](https://web.archive.org/web/20090615000000*/everbecoming.org)[^1] and [northtonowhere.com](https://web.archive.org/web/20090615000000*/northtonowhere.com)[^2] Over the years I've let those domains lapse and have culled many of the posts from the older sites because they weren't worth migrating to the new sites and programs.
 
 The blog is hosted on [NearlyFreeSpeech](https://nearlyfreespeech.net) and runs on Wordpress using the Ryu theme. My [CV](https://jaredeberle.org) is compiled with Hugo, a static site generator.
 
@@ -85,3 +85,7 @@ This is a non-extensive (and only periodically updated) list of magazines, websi
 - [Tedium](https://tedium.co) (and [Midrange](https://midrange.tedium.co))
 - [The Sunday Long Read](https://sundaylongread.com)
 - [Why Is This Interesting?](https://whyisthisinteresting.substack.com/)
+
+---
+[^1]: A reference to [Frederick Jackson Turner's statement](https://teachingamericanhistory.org/library/document/the-significance-of-history/) that, "History, both objective and subjective, is ever becoming — never completed."
+[^2]: A play on the 1960 film [*North to Alaska*](https://en.wikipedia.org/wiki/North_to_Alaska) not the [1989 film](https://www.imdb.com/title/tt10691426/)
