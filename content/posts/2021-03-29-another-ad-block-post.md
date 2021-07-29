@@ -6,7 +6,7 @@ date: "2021-03-29T14:55:00Z"
 tags:
 - Nerd Stuff
 title: Another Ad Block Post
-url: /another-ad-block-post/
+slug: /another-ad-block-post/
 ---
 
 Hi, me another random person, writing about ad blockers in Safari. It's been about a month [since the last post](https://blog.jaredeberle.org/posts/is-there-a-good-safari-ad-blocker/), so why not another one?

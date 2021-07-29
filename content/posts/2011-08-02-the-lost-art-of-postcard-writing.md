@@ -6,7 +6,7 @@ date: "2011-08-02T14:31:00Z"
 tags:
 - Writing
 title: The Lost Art of Postcard Writing
-url: /the-lost-art-of-postcard-writing/
+slug: /the-lost-art-of-postcard-writing/
 original: false
 author: "Charles Simic"
 link: "https://www.nybooks.com/daily/2011/08/02/what-ever-happened-summer-postcards/"

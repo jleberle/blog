@@ -6,7 +6,7 @@ date: "2020-07-07T12:10:00Z"
 tags:
 - Nerd Stuff
 title: The Swiping Revolution
-url: /the-swiping-revolution/
+slug: /the-swiping-revolution/
 ---
 
 A few nights ago at far too late an hour I ended up watching the entire unveiling of the first iPhone back in 2007. I'm not sure I ended up on the subject, but in the end I stuck around for the entire 80ish minutes because it was such an interesting relic of technology history.

@@ -8,7 +8,7 @@ id: 131
 tags:
 - Nerd Stuff
 title: Walking on Glass
-url: /walking-on-glass/
+slug: /walking-on-glass/
 ---
 I’ve been using the public betas of iOS/iPadOS and MacOS since they came out in the last few days and there’s a lot to love about the forthcoming releases.
 

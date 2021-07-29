@@ -8,7 +8,7 @@ images:
 tags:
 - Conferencing
 title: Go Out and Do The Things
-url: /go-out-and-do-the-things/
+slug: /go-out-and-do-the-things/
 ---
 
 {{< figure src="/images/2016/10/stpaul.jpg" title="The Mississippi From the Hotel Window" >}}

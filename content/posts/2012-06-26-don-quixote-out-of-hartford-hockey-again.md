@@ -6,7 +6,7 @@ date: "2012-06-26T14:24:00Z"
 tags:
 - Whalers
 title: Don Quixote Out of Hartford Hockey. Again.
-url: /don-quixote-out-of-hartford-hockey-again/
+slug: /don-quixote-out-of-hartford-hockey-again/
 ---
 So much for all those plans for a new XL Center and Don Quixote triumphly returning the NHL to Hartford. The *Hartford Courant* reports the Rangers have [taken back management of the Connecticut Whale from Baldwin’s Whalers Sports &amp; Entertainment](http://web.archive.org/web/20151003072814/http://articles.courant.com/2012-06-26/sports/hc-rangers-part-way-with-baldwin-0627-20120626_1_baldwin-whalers-sports-entertainment-rangers-assistant-general-manager):
 

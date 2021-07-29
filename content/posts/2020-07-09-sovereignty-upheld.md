@@ -6,7 +6,7 @@ date: "2020-07-09T15:41:00Z"
 tags:
 - Indigenous
 title: Sovereignty Upheld
-url: /sovereignty-upheld/
+slug: /sovereignty-upheld/
 ---
 {{< figure src="/images/2020/07/mcgirt.png" >}}
 

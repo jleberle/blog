@@ -7,6 +7,7 @@ categories:
 - Listening
 tags:
 - Bruce Springsteen
+slug: where-the-hell-did-you-get-waves-from
 ---
 
 Joe Posnanski makes a [compelling case](https://joeposnanski.substack.com/p/marys-dress) for defending waves as the right opening lyric in Bruce Springsteen's "Thunder Road":
