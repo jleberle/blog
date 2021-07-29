@@ -1280,7 +1280,7 @@ uglyURLs = false
     #       https://busuanzi.ibruce.info/
 
     # Socials
-    enableSocials = false
+    enableSocials = true
     # Note: see data/Socials.toml
 
 
