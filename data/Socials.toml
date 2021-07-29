@@ -32,10 +32,3 @@
     icon = "twitter"
     title = "Twitter"
     weight = 4
-
-[[socials]]
-    id = "instagram"
-    url = "https://instagram.com/jleberle"
-    icon = "instagram"
-    title = "Instagram"
-    weight = 5
