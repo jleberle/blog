@@ -11,11 +11,11 @@ toc: true
 
 This in many respects is my glorified junk drawer. This is where I put quotes, links, or other items. I found that I've liked over the years. You'll also find a number of posts with [basic tech-related issues](https://blog.jaredeberle.org/category/tinkering/), mostly to remind myself how I fixed things in case they break in the future.
 
-I also tend to post some basic reviews of things I'm [reading](https://blog.jaredeberle.org/category/reading/), [watching](https://blog.jaredeberle.org/category/watching/), or [listening](https://blog.jaredeberle.org/category/listening/) to. I also post [semi-regular media diets](https://blog.jaredeberle.org/media-diet-february-and-april-2021/) that cover stuff I've engaged with since the last time I posted one.
+I also tend to post some basic reviews of things I'm [reading](https://blog.jaredeberle.org/categories/reading/), [watching](https://blog.jaredeberle.org/categories/watching/), or [listening](https://blog.jaredeberle.org/categories/listening/) to. I also post [semi-regular media diets](https://blog.jaredeberle.org/categories/recap/) that cover stuff I've engaged with since the last time I posted one.
 
-Beyond those there's a number of [history posts](https://blog.jaredeberle.org/category/history/) of varying lengths and quality; some posts on [local issues](https://blog.jaredeberle.org/category/local/) related to Connecticut (where I grew up and Oklahoma (where I live). 
+Beyond those there's a number of [history posts](https://blog.jaredeberle.org/categories/history/) of varying lengths and quality; some posts on [local issues](https://blog.jaredeberle.org/categories/local/) related to Connecticut (where I grew up and Oklahoma (where I live). 
 
-Finally I have some old posts on The Hartford Whalers and Howard Baldwin's attempt to return to hockey in Connecticut. I think [they've held up pretty well](https://blog.jaredeberle.org/whalers-links/) over the last decade.
+Finally I have some old posts on The Hartford Whalers and Howard Baldwin's attempt to return to hockey in Connecticut. I think [they've held up pretty well](https://blog.jaredeberle.org/tags/whalers) over the last decade.
 
 ## Colophon
 

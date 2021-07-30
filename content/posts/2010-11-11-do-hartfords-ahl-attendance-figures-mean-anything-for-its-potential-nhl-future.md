@@ -11,7 +11,7 @@ title: "Do Hartford's AHL Attendance Figures Mean Anything for its Potential
 slug: /do-hartfords-ahl-attendance-figures-mean-anything-for-its-potential-nhl-future/
 ---
 
-In remarks given yesterday at the Middlesex County Chamber of Commerce’s Business to Business Expo, Howard Baldwin, the new owner of the Hartford Wolfpack (or CT Whale) and former Whalers owner, said he’s [no longer skeptical](https://www.courant.com/sports/hockey/hc-xpm-2010-10-28-hc-baldwin-whalers-1028-20101028-story.html)) of the Hartford hockey market.
+In remarks given yesterday at the Middlesex County Chamber of Commerce’s Business to Business Expo, Howard Baldwin, the new owner of the Hartford Wolfpack (or CT Whale) and former Whalers owner, said he’s [no longer skeptical](https://www.courant.com/sports/hockey/hc-xpm-2010-10-28-hc-baldwin-whalers-1028-20101028-story.html) of the Hartford hockey market.
 
 This, to someone who still remains skeptical of the market potential, seemed like an odd thing to say when half way through the article you find out Hartford is 22nd in AHL attendance with an average of 3,589 fans per game.[^1] On first reading that stat and Howard’s statements it looked like just another case of Howard being delusional about Hartford's ability to get an NHL franchise.
 

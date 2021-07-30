@@ -9,7 +9,7 @@ title: Oh The Whale
 slug: /oh-the-whale/
 ---
 
-The Connecticut Whale kicked off in Hartford this weekend and it [looks to have been a successful debut](http://web.archive.org/web/20110708200851/https://www.courant.com/sports/hockey/hc-whale-debut-1128-20101127,0,7689490.story) (in more ways than one). I’m stated my position on the [Hartford NHL issue](/do-hartfords-ahl-attendance-figures-mean-anything-for-its-potential-nhl-future/) in the past but having read news on the debut (I plan on attending a game next month when I return to Connecticut) I’m not liking the new Whale.
+The Connecticut Whale kicked off in Hartford this weekend and it [looks to have been a successful debut](http://web.archive.org/web/20110708200851/https://www.courant.com/sports/hockey/hc-whale-debut-1128-20101127,0,7689490.story) (in more ways than one). I’m stated my position on the [Hartford NHL issue](/posts/do-hartfords-ahl-attendance-figures-mean-anything-for-its-potential-nhl-future/) in the past but having read news on the debut (I plan on attending a game next month when I return to Connecticut) I’m not liking the new Whale.
 
 With Brass Bonanza blaring, green and blue jerseys and Pucky the Whale it should be the Whalers, instead we’ve gotten what looks like a cheap Chinese knockoff. Howard Baldwin said he didn’t use the Whalers name because he didn’t feel sorting out the copyright issues were in the best interest of Hartford hockey at the current time. Fine, but now that he’s christened the Whale and started his Quixotic quest to return the NHL to Hartford he should address the copyright issues and admit the NHL isn’t coming back to Hartford.
 

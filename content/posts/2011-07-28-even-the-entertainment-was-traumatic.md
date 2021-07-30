@@ -12,4 +12,4 @@ slug: /even-the-entertainment-was-traumatic/
 
 > - <cite>Timothy Egan, *The Worst Hard Time**</cite>
 
-[The other cow dip]((https://web.archive.org/web/20131006113257/http://www.library.okstate.edu:80/scua/exhibit/oaa/3dec03.htm), meant to ward off ticks carrying Texas Fever, weren’t much better given the fact that vats of pesticide cocktails invariably killed the cows swimming through.
+[The other cow dip](https://web.archive.org/web/20131006113257/http://www.library.okstate.edu:80/scua/exhibit/oaa/3dec03.htm), meant to ward off ticks carrying Texas Fever, weren’t much better given the fact that vats of pesticide cocktails invariably killed the cows swimming through.
