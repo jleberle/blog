@@ -44,11 +44,11 @@ This is a non-extensive (and only periodically updated) list of magazines, websi
 
 **Magazines (With Print Subscriptions)**
 
-*New Yorker*
-*The Economist*
-*Wired*
-*Mother Jones*
-*Dissent*
+- *New Yorker*
+- *The Economist*
+- *Wired*
+- *Mother Jones*
+- *Dissent*
 
 **National Media**
 
