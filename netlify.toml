@@ -33,3 +33,6 @@ HUGO_ENABLEGITINFO = "true"
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+  package = "netlify-plugin-checklinks"
+  [plugins.inputs]
+    skipPatterns = ['https://fonts.gstatic.com', '/icons/mstile-150x150.png']
