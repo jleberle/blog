@@ -9,7 +9,7 @@ toc: true
 
 ## What's Here
 
-This in many respects is my glorified junk drawer. This is where I put quotes, links, or other items. I found that I've liked over the years. You'll also find a number of posts with [basic tech-related issues](https://blog.jaredeberle.org/category/tinkering/), mostly to remind myself how I fixed things in case they break in the future.
+This in many respects is my glorified junk drawer. This is where I put quotes, links, or other items. I found that I've liked over the years. You'll also find a number of posts with [basic tech-related issues](https://blog.jaredeberle.org/categories/tinkering/), mostly to remind myself how I fixed things in case they break in the future.
 
 I also tend to post some basic reviews of things I'm [reading](https://blog.jaredeberle.org/categories/reading/), [watching](https://blog.jaredeberle.org/categories/watching/), or [listening](https://blog.jaredeberle.org/categories/listening/) to. I also post [semi-regular media diets](https://blog.jaredeberle.org/categories/recap/) that cover stuff I've engaged with since the last time I posted one.
 
@@ -27,7 +27,7 @@ The blog is hosted on [NearlyFreeSpeech](https://nearlyfreespeech.net) and runs 
 
 Most posts are written in [Marsedit](https://redsweater.com/marsedit/) or [BBEdit](https://www.barebones.com/products/bbedit/index.html) with the assistance of Markdown. All of my work is done on either a 2021 M1 iMac (Blue) or a 2021 11.9" iPad Pro.
 
-See the [Sources page](/sources) for information on where I probably find material.
+See the sources below for information on where I probably find material.
 
 Other important programs:
 
