@@ -8,7 +8,7 @@ categories:
 tags:
 - Olympics
 - Baseball
-draft: true
+draft: false
 ---
 
 For the first time since 2008 baseball (and softball) are back at the Olympics thanks to the host committee's petition to include the events under the local significance exemption. That means the sports are back on a one-off basis unless a future host site petitions for their inclusion on the program. Both sports ended up dropped largely because of the perceived lack of competitiveness on an international level.[^1] While softball always saw the best players competing, MLB refused to release players citing the inability to accommodate a two week break in the middle of the season. While South Korea, Japan, and Cuba fielded the best players from their domestic leagues, the US and other countries relied on a mix of minor league prospects, college players, and professionals at the tail end of their careers.[^2] In Tokyo South Korea and Japan are fielding teams filled with current Korean and Nippon League players while the US, Israel, Mexico, and Dominican Republic have that mix of young prospects and old timers, meaning it's prime time, as David Roth would say, to [remember some guys](https://deadspin.com/lets-remember-some-guys-behind-the-remembering-1837487820).[^3]
