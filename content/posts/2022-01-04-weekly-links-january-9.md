@@ -24,3 +24,6 @@ Kate Manne, ["Diet Culture is Unhealthy. It's Also Immoral."](https://www.nytime
 
 Olivia Nuzzi, ["The Political Life of Dr. Oz"](https://nymag.com/intelligencer/article/dr-oz-senate-pennsylvania.html), *New York*
 
+Paul MacInnes, ["For the good of football, we should have let the European Super League happen"](https://www.theguardian.com/football/2022/jan/04/european-super-league-premier-league-championship-finances), *The Guardian*
+
+This is essentially the same argument that is made for creating a new super league for college football's power five conferences. I'm not convinced either setup would benefit the smaller teams in the long run because there'd be a continual desire to move up the ladder to the bigger league when teams lower down keep winning.
