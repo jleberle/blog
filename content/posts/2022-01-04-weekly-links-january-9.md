@@ -21,3 +21,6 @@ Kate Manne, ["Diet Culture is Unhealthy. It's Also Immoral."](https://www.nytime
 ["100 ways to slightly improve your life without really trying"])https://www.theguardian.com/lifeandstyle/2022/jan/01/marginal-gains-100-ways-to-improve-your-life-without-really-trying), *The Guardian*
 
 > 11 Get the lighting right: turn off the overhead one, turn on lots of lamps (but turn off when you leave the room).
+
+Olivia Nuzzi, ["The Political Life of Dr. Oz"](https://nymag.com/intelligencer/article/dr-oz-senate-pennsylvania.html), *New York*
+
