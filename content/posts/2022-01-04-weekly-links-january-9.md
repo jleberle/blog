@@ -16,6 +16,8 @@ Thomas Homer-Dixon, ["The American polity is cracked, and might collapse. Canada
 
 Sam Adler-Bell, ["The Radical Young Intellectuals Who Want to Take Over the American Right"](https://newrepublic.com/article/164408/young-intellectuals-illiberal-revolution-conservatism), *The New Republic*
 
+Tom McTague ["How Britain Falls Apart"](https://www.theatlantic.com/international/archive/2022/01/will-britain-survive/621095/), *The Atlantic*
+
 ["A Tribe's Bitter Purge Brings an Unusual Request: Federal Intervention"](https://www.nytimes.com/2022/01/02/us/nooksack-306-evictions-tribal-sovereignty.html), *New York Times*
 
 Martha S. Jones, ["Nine decades later, W.E.B. Du Bois’s work faces familiar criticisms"](https://www.washingtonpost.com/outlook/nine-decades-later-web-du-boiss-work-faces-familiar-criticisms/2022/01/07/9f926968-6445-11ec-8ce3-9454d0b46d42_story.html), *Washington Post*
