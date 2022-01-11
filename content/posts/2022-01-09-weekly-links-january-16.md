@@ -10,3 +10,4 @@ tags:
 draft: true
 ---
 
+["As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist"](https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html), *New York Times*
