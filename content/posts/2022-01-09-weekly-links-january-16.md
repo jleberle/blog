@@ -13,3 +13,5 @@ draft: true
 ["As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist"](https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html), *New York Times*
 
 David Shariatmadari, ["How to win at Wordle using linguistic theory"](https://www.theguardian.com/commentisfree/2022/jan/11/secret-winning-wordle-word-game), *The Guardian*
+
+M. Nolan Gray, ["Stop Fetishizing Old Homes"](https://www.theatlantic.com/ideas/archive/2022/01/stop-fetishizing-old-homes-new-construction-nice/621012/?utm_source=feed), *The Atlantic*
