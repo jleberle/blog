@@ -15,3 +15,5 @@ draft: true
 David Shariatmadari, ["How to win at Wordle using linguistic theory"](https://www.theguardian.com/commentisfree/2022/jan/11/secret-winning-wordle-word-game), *The Guardian*
 
 M. Nolan Gray, ["Stop Fetishizing Old Homes"](https://www.theatlantic.com/ideas/archive/2022/01/stop-fetishizing-old-homes-new-construction-nice/621012/?utm_source=feed), *The Atlantic*
+
+Lawrence Freedman, ["Is Russia Preparing for War?"](https://samf.substack.com/p/is-russia-preparing-for-war?r=15i4j0), *Comment is Freed*
