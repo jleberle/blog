@@ -27,3 +27,5 @@ Gerald Marzorati, ["Djokovic's Strange Australian Odyssey"( https://www.newyorke
 Ian Bogost, ["The Genus of Extremely Slow Email"](https://www.theatlantic.com/technology/archive/2022/01/slow-internet-email/621232/?utm_source=feed), *The Atlantic*
 
 Ariel Ron, ["How Twitter Explains the Civil War (and Vice Versa)](https://bearistotle.substack.com/p/how-twitter-explains-the-civil-war), *The Strong Paw of Reason*
+
+Emily Stewart, ["After the Beanie Baby bubble burst"](https://www.vox.com/the-goods/22870250/nft-beanie-baby-price-guide-bubble-princess-value), *Vox*
