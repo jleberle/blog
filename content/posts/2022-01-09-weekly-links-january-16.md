@@ -29,3 +29,7 @@ Ian Bogost, ["The Genus of Extremely Slow Email"](https://www.theatlantic.com/te
 Ariel Ron, ["How Twitter Explains the Civil War (and Vice Versa)](https://bearistotle.substack.com/p/how-twitter-explains-the-civil-war), *The Strong Paw of Reason*
 
 Emily Stewart, ["After the Beanie Baby bubble burst"](https://www.vox.com/the-goods/22870250/nft-beanie-baby-price-guide-bubble-princess-value), *Vox*
+
+Paul Ford, ["A Grand Unified Theory of Buying Stuff"](https://www.wired.com/story/a-grand-unified-theory-of-buying-stuff/), *Wired*
+
+
