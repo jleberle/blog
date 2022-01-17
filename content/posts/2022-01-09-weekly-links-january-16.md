@@ -7,7 +7,7 @@ categories:
 - Recap
 tags:
 - Links
-draft: true
+draft: false
 ---
 
 ["As Its Population Soars to 40, Rum Isle Glimpses a Future in the Mist"](https://www.nytimes.com/2022/01/10/world/europe/rum-isle-scotland-hebrides.html), *New York Times*
@@ -32,4 +32,4 @@ Emily Stewart, ["After the Beanie Baby bubble burst"](https://www.vox.com/the-go
 
 Paul Ford, ["A Grand Unified Theory of Buying Stuff"](https://www.wired.com/story/a-grand-unified-theory-of-buying-stuff/), *Wired*
 
-Tim Moore["The village that broke free"](https://www.telegraph.co.uk/news/2022/01/08/how-community-rescued-our-village-trawden-lancashire/), *The Telegraph*
+Tim Moore, ["The village that broke free"](https://www.telegraph.co.uk/news/2022/01/08/how-community-rescued-our-village-trawden-lancashire/), *The Telegraph*
