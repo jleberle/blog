@@ -1,6 +1,6 @@
 ---
 title: 'Weekly links - January 9'
-date: 2022-01-04T09:56:29-06:00
+date: 2022-01-09T09:56:29-06:00
 slug: 'weekly-links-january-9'
 author: Jared
 categories:
