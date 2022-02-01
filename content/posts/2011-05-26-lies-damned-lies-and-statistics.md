@@ -12,6 +12,6 @@ Here’s a helpful reminder should you stumble across any of the previous articl
 
 Also a humorous Twitter exchange between TSN’s Bob McKenzie and whoever runs the Whale’s Twitter page:
 
-{{< tweet 73766084817338369 >}}
+{{< tweet user="tsnbobmckenzie" id="73766084817338369" >}}
 
-{{< tweet 73769214288216064 >}}
+{{< tweet user="tsnbobmckenzie" id="73769214288216064" >}}
