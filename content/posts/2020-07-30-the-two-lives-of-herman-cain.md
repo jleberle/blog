@@ -13,7 +13,7 @@ On June 20th, Herman Cain attended Donald Trump's rally in Tulsa. Cain tweeted a
 
 That's not what I'm concerned about. I'm fascinated by the alternative lives many celebrities, especially political figures, take on when they try and build their "brand." Cain had a personal website and a Twitter profile that essentially operated as an RSS feed of his website, at least in recent memory. This is all pretty normal. What's fascinating in a weird, dystopian science fiction way, is what happened after July 2nd when Cain's account announced he'd been hospitalized because of the Coronavirus. The account didn't stop. With a few health updates interspersed throughout, Cain's Twitter account kept pumping out tweets, some even dealing with COVID-19. [One criticized a business owner for attacking Trump on his COVID-19 response](https://www.westernjournal.com/biden-ad-features-woman-attacking-trump-covid-fails-mention-27000-ppp-money/) because she got paycheck protection money. Another claimed [we could be closer to herd immunity than experts want you to believe](https://web.archive.org/web/20200730160538/https://hermancain.com/studies-suggest-much-closer-herd-immunity-experts-think-t-cells/). A recent one praised MLB for [not canceling the season](https://web.archive.org/web/20210117104653/https://hermancain.com/media-tries-pretty-hard-fails-get-baseball-season-canceled-marlins-covid-outbreak/) after the Marlins virus outbreak. The rest sort of bounce around to the current viral Republican talking point of the day. My favorite, however, is probably this one in which the machines relieved themselves
 
-{{< tweet 1283862217327284226 >}}
+{{< tweet user="THEHermancain" id="1283862217327284226" >}}
 
 So while the real-life Herman Cain spent the last month dealing with the effects of COVID-19, his online persona spent most of the month operating as if little was wrong. One has to assume the writers who produced content for Cain will now be out of jobs as Cain's estate ends its business, but what if Cain's account just keeps tweeting the most recent hot button issue for Republicans long after he's mostly forgotten? This immortality is much more depressing than what we were promised.
 
@@ -21,7 +21,7 @@ Addendum…
 
 Cain's account has retweeted two posts since the announcement, one by the White House Press Secretary and one by a Fox New Contributor. The latter one is weird in the same sense as Herman Cain's website in that it's a remembrance of Cain that quotes the site owner through a secondary writer. But what made me laugh was the photo used in the story.
 
-{{< tweet 1288847483129528320 >}}
+{{< tweet user="SaraCarterDC"  id="1288847483129528320" >}}
 
 It's from Cain's 2011 interview with the Milwaukee *Journal Sentinel** while running for the Republican nomination for president, the interview in which he gave this answer in response to Obama's handling of the protests in Libya against Muammar Gaddafi
 
