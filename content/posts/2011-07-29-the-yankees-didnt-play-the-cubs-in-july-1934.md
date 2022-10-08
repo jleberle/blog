@@ -5,7 +5,7 @@ categories:
 date: "2011-07-29T12:38:00Z"
 tags:
 - Baseball
-title: The Yankees Didn&#8217;t Play the Cubs in July 1934
+title: "The Yankees Didn't Play the Cubs in July 1934"
 slug: /the-yankees-didnt-play-the-cubs-in-july-1934/
 ---
 

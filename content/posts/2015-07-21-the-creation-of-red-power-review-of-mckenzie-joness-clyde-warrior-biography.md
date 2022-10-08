@@ -6,8 +6,8 @@ date: "2015-07-21T14:27:00Z"
 tags:
 - Indigenous
 - Reviews
-title: '&#8220;The Creation of Red Power&#8221;: Review of McKenzie-Jones&#8217;s
-  Clyde Warrior Biography'
+title: "'The Creation of Red Power': Review of McKenzie-Jones's
+  Clyde Warrior Biography"
 slug: /the-creation-of-red-power-review-of-mckenzie-joness-clyde-warrior-biography/
 ---
 {{< figure src="/images/2015/07/mckenziejones.jpg#floatleft" >}}

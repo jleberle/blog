@@ -5,7 +5,7 @@ categories:
 date: "2015-09-15T09:36:00Z"
 tags:
 - Indigenous
-title: Where&#8217;d the Death Come From?
+title: "Where'd the Death Come From?"
 slug: /whered-the-death-come-from/
 ---
 

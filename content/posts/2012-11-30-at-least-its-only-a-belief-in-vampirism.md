@@ -5,7 +5,7 @@ categories:
 date: "2012-11-30T08:52:00Z"
 tags:
 - The Weird
-title: At Least It&#8217;s Only a Belief in Vampirism
+title: "At Least It's Only a Belief in Vampirism"
 slug: /at-least-its-only-a-belief-in-vampirism/
 original: false
 author: "George R. Stetson"
