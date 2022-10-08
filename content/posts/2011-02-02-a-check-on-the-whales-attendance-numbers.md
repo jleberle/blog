@@ -5,7 +5,7 @@ categories:
 date: "2011-02-02T02:04:00Z"
 tags:
 - Whalers
-title: A Check on the Whale&#8217;s Attendance Numbers
+title: "A Check on the Whale's Attendance Numbers"
 slug: /a-check-on-the-whales-attendance-numbers/
 ---
 
