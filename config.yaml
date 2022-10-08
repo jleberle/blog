@@ -38,7 +38,7 @@ social:
 # Site parameters
 params:
   # Site Author
-  author: Jared L. Eberle
+  author: Jared Eberle
   # Author biography
   bio: Lecturer of Indigenous North American History
   # Site Description, used in HTML meat
@@ -64,7 +64,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: 'CC-BY-NC {params.author}' 
+  copyright: 'CC-BY-NC Jared L. Eberle' 
 
   # Extra links in navigation
   links:
