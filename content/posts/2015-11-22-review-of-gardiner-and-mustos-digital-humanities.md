@@ -5,7 +5,7 @@ categories:
 date: "2015-11-22T11:18:00Z"
 tags:
 - Reviews
-title: Review of Gardiner and Musto&#8217;s Digital Humanities
+title: "Review of Gardiner and Musto's Digital Humanities"
 slug: /review-of-gardiner-and-mustos-digital-humanities/
 ---
 {{< figure src="/images/2015/11/gardinermusto.jpg#floatleft" >}}
