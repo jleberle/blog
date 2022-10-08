@@ -5,7 +5,7 @@ categories:
 date: "2016-04-22T16:01:00Z"
 tags:
 - Bruce Springsteen
-title: It Ain&#8217;t No Sin to be Glad You&#8217;re Alive
+title: "It Ain't No Sin to be Glad You're Alive"
 slug: /it-aint-no-sin-to-be-glad-youre-alive/
 ---
 
