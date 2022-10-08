@@ -5,7 +5,7 @@ categories:
 date: "2012-10-10T21:13:00Z"
 tags:
 - Activism
-title: AIM&#8217;s Founding
+title: "AIM's Founding"
 slug: /aims-founding/
 ---
 [From the Associated Press’ obituary of Russell Means](http://web.archive.org/web/20121024213831/https://www.latimes.com/news/obituaries/la-russell-means-indian-activist-actor-dies-at-72-20121022,0,3901740.story):

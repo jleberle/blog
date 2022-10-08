@@ -5,7 +5,7 @@ categories:
 date: "2013-02-21T10:31:00Z"
 tags:
 - Indigenous
-title: Business Insider&#8217;s Hideously Inaccurate Piece About Wind River
+title: "Business Insider's Hideously Inaccurate Piece About Wind River"
 slug: /business-insiders-hideously-inaccurate-piece-about-wind-river/
 ---
 The concluding chapter of my thesis touched on the issue of people writing poverty porn articles in regards to life on Native American reservations. In addition to Diana Sawyer’s visit to Pine Ridge for “[Hidden America: Children of the Plains](http://abcnews.go.com/2020/video/hidden-america-children-plains-robert-crumbling-trailer-dreams-2020-14742304)” I mentioned the [negative coverage](http://www.nytimes.com/2012/02/03/us/wind-river-indian-reservation-where-brutality-is-banal.html?_r=1&amp;&amp;pagewanted=all) the Wind River reservation receives from the press. Since then the *New York Times** has returned to [Wind River and other reservations](https://blog.jaredeberle.org/posts/ny-times-returns-to-the-topic-of-violence-on-reservations/) for more stories, but those stories are nothing compared to Business Insider and their shallow use of Wind River to churn up some page views through a morally, ethically, and factually questionable “article.” I refuse to link to websites like BI on this blog and risk giving them even one more page view besides my own, so you’ll need to find the link at this [WyoFile](http://web.archive.org/web/20130222023403/http://wyofile.com/2013/02/the-reservation-reacts-to-new-troubling-press-coverage) article on the subject.

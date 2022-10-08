@@ -5,7 +5,7 @@ categories:
 date: "2020-07-24T12:02:00Z"
 tags:
 - Reviews
-title: Taylor Swift&#8217;s Quarantine Album
+title: "Taylor Swift's Quarantine Album"
 slug: /taylor-swifts-quarantine-album/
 ---
 When Taylor Swift writes songs the usual response is to go to Dylanologist levels of reading and interpretation to figure out who's the subject of the veiled song. Which relationship went bad? Who's the new significant other? Swift has both acknowledged the semi-autobiographical nature of many of her songs, while also noting the taxing nature of having the songs so intently scrutinized for every little clue. On Folklore she not only spurred the traditional release cycle but also stepped outside the confines of writing semi-autobiographical songs. From the album cover through the songs themselves, Folklore is an initimate album of the times, one both produced under the constraints of social distancing and speaking to the emotions many have experienced in light of forced social isolation.

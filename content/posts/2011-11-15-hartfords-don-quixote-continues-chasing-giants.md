@@ -3,11 +3,9 @@ author: Jared
 categories:
 - Sports
 date: "2011-11-15T14:35:00Z"
-guid: https://eberlemain.nfshost.com/?p=263
-id: 263
 tags:
 - Whalers
-title: Hartford&#8217;s Don Quixote Continues Chasing Giants
+title: "Hartford's Don Quixote Continues Chasing Giants"
 slug: /hartfords-don-quixote-continues-chasing-giants/
 ---
 Howard Baldwin, not satisfied with an average of 4,700 per home game this year, is back chasing rainbows and attempting to implant delusions of grander and sugar plum fairies into the minds of Connecticut hockey fans. Want a new arena complex and the NHL by 2017? [Howard will do it](http://web.archive.org/web/20111202233804/http://articles.courant.com/2011-11-16/sports/hc-whale-xl-center-1116-20111115_1_nhl-dream-trumbull-street-realities)! If you believe that I still haven’t been unable to unload my ocean front property in Arizona. Call me, it’s heavily reduced.

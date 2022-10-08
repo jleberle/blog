@@ -5,7 +5,7 @@ categories:
 date: "2012-06-26T14:36:00Z"
 tags:
 - Whalers
-title: Baldwin Didn&#8217;t Kill Hockey in Hartford, He Just Made It&#8217;s Death
+title: "Baldwin Didn't Kill Hockey in Hartford, He Just Made It's Death"
   Messy
 slug: /baldwin-didnt-kill-hockey-in-hartford-he-just-made-its-death-messy/
 ---

@@ -5,7 +5,7 @@ categories:
 date: "2011-12-21T08:27:00Z"
 tags:
 - Woody Guthrie
-title: Woody Guthrie&#8217;s New Year&#8217;s Resolutions
+title: "Woody Guthrie's New Year's Resolutions"
 slug: /woody-guthries-new-years-resolutions/
 original: false
 author: Boing Boing

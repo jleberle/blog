@@ -6,7 +6,7 @@ date: "2020-07-13T14:59:00Z"
 tags:
 - Indigenous
 - Oklahoma
-title: McGirt&#8217;s Importance
+title: "McGirt's Importance"
 slug: /mcgirts-importance/
 ---
 This [*Atlantic*](https://www.theatlantic.com/ideas/archive/2020/07/mcgirt-case-historic-win-tribes/614071/) piece is a good overview of the legal overview of *McGirt*:

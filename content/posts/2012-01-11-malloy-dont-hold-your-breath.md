@@ -5,7 +5,7 @@ categories:
 date: "2012-01-11T14:23:00Z"
 tags:
 - Whalers
-title: 'Malloy: &#8220;Don&#8217;t Hold Your Breath&#8221;'
+title: "Malloy: Don't Hold Your Breath"
 slug: /malloy-dont-hold-your-breath/
 ---
 [Sensibility from Dannel](https://www.courant.com/sports/hockey/hc-xpm-2012-01-11-hc-malloy-on-nhl-dont-hold-your-breath-20120111-story.html):

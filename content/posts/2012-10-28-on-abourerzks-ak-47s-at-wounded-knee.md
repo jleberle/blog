@@ -5,7 +5,7 @@ categories:
 date: "2012-10-28T08:22:26Z"
 tags:
 - Activism
-title: On Abourerzk&#8217;s AK-47s at Wounded Knee
+title: "On Abourerzk's AK-47s at Wounded Knee"
 slug: /on-abourerzks-ak-47s-at-wounded-knee/
 ---
 [Former Senator Jim Abourezk discussing his visit to the occupied town of Wounded Knee in 1973 with the South Dakota CBS affiliate](http://web.archive.org/web/20160611061224/http://www.keloland.com/news/article/news/abourezk-shares-means--mcgovern-memories):

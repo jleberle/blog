@@ -5,7 +5,7 @@ categories:
 date: "2017-06-05T10:39:00Z"
 tags:
 - Nerd Stuff
-title: Coding? But You&#8217;re a Historian
+title: "Coding? But You're a Historian"
 slug: /coding-but-youre-a-historian/
 ---
 When I went away to start my undergrad I was not only a pretty socially awkward person (alert: still am), but I had my own computer for basically the first time in my life. Prior to getting a Dell laptop to start college I had always used desktops everyone in the family shared. But the combination of having a computer I could muck around with as much as I wanted and a willingness to lock myself in my dorm room when I should've been interacting with humanity left me with tons of time to catch up on all the computer stuff I missed most of my life. I also ended up going pretty heavily in IRC chat rooms for a period of time[ref]Not the weird ones, I promise.[/ref] and those lead me further down the nerd rabbit hole. Between experimenting with Linux and seeing rudimentary IRC chat room scripting, I got pretty interested in maximizing what I could do with a computer.[ref]Most college kids experiment with drugs and alcohol, I dual-booted a laptop.[/ref] When you start to see what scripting and getting into the underside of your computer can do, it not only seems like magic but it provides hours of oddly enjoyable frustration as you slowly figure out how stuff works.

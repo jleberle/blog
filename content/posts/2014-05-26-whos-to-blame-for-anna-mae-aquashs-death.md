@@ -5,7 +5,7 @@ categories:
 date: "2014-05-26T08:26:00Z"
 tags:
 - Activism
-title: Who&#8217;s to Blame for Anna Mae Aquash&#8217;s Death?
+title: "Who's to Blame for Anna Mae Aquash's Death?"
 slug: /whos-to-blame-for-anna-mae-aquashs-death/
 ---
 

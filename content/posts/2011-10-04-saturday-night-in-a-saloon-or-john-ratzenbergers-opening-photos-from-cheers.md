@@ -5,8 +5,8 @@ categories:
 date: "2011-10-04T15:14:00Z"
 tags:
 - Photography
-title: '&#8220;Saturday Night in a Saloon&#8221; Or John Ratzenberger&#8217;s Opening
-  Photos From Cheers'
+title: "'Saturday Night in a Saloon' Or John Ratzenberger's Opening
+  Photos From Cheers"
 slug: /saturday-night-in-a-saloon-or-john-ratzenbergers-opening-photos-from-cheers/
 ---
 In watching the final installment of Ken Burns’s “Prohibition” documentary I noticed a picture that was notable solely because I watch too many old reruns of "*Cheers*":
