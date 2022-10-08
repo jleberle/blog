@@ -7,7 +7,7 @@ tags:
 - Activism
 - Archives
 - FOIA
-title: Dennis Banks&#8217; FBI File
+title: "Dennis Banks' FBI File"
 slug: /dennis-banks-fbi-file/
 ---
 
