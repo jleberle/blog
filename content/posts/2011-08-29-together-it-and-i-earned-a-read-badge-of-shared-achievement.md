@@ -5,7 +5,7 @@ categories:
 date: "2011-08-29T12:45:00Z"
 tags:
 - Quotes
-title: '&#8220;Together, it and I earned a Read Badge of Shared Achievement'
+title: 'Together, it and I earned a Read Badge of Shared Achievement'
 slug: /together-it-and-i-earned-a-read-badge-of-shared-achievement/
 ---
 [Wonderful “Reading Life” essay](http://www.nytimes.com/2011/08/28/books/review/reading-life-what-we-do-to-books.html?ref=books&amp;pagewanted=all) on the well-read book as a thing of beauty:
