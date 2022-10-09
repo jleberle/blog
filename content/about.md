@@ -1,9 +1,10 @@
----
-title: "About"
-date: 2021-07-24T20:32:36-05:00
-draft: false
-toc: true
----
++++
+title = "About"
+description = "What this whole thing is about"
+date = "2021-07-21"
+aliases = ["about-us", "contact"]
+author = "Jared"
++++
 
 *Last Update: July 2021*
 
