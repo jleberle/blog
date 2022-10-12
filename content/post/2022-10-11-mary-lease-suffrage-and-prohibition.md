@@ -1,5 +1,5 @@
 ---
-title: "Mary Lease, Suffrage, and Prohibition'
+title: "Mary Lease, Suffrage, and Prohibition"
 date: 2022-10-11T17:18:17-05:00
 slug: 'mary-lease-suffrage-and-prohibition'
 author: Jared
