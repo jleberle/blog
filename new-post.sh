@@ -10,6 +10,6 @@ fi
 
 date=`date "+%Y-%m-%d"`
 name=$1
-dir="content/posts/$date-$name"
+dir="content/post/$date-$name"
 # Use Hugo archetypes to do the heavy lifting in creating the new file
-hugo new "posts/$date-$name.md"
+hugo new "post/$date-$name.md"
